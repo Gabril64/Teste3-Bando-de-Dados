@@ -1,4 +1,4 @@
-#Teste3 - Banco de Dados
+# Teste3 - Banco de Dados
 
 Conforme solicitado na atividade 3, foi realizada a criação de um banco de dados utilizando PostgreSQL (Versão 17.4-1). Neste repositório, estão disponíveis os scripts de criação de cada tabela utilizada.
 
