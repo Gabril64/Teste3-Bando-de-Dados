@@ -4,7 +4,7 @@ Conforme solicitado na atividade 3, foi realizada a criação de um banco de dad
 
 ============================================
 
-#Estrutura e Execução dos Scripts
+# Estrutura e Execução dos Scripts
 
 Para a criação das colunas e importação dos dados, siga os passos abaixo:
 
